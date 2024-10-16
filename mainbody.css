@@ -1,0 +1,353 @@
+body{
+    margin: 0;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+
+.main-body-first-div{
+    height: 386px;
+    margin-top: 0;
+}
+
+.Suggestions{
+    color: black;
+    font-size: 36px;
+    font-weight: 650;
+    height: 44px;
+    line-height: 44px;
+    margin-left: 183px;
+    margin-top: 67px;
+}
+
+.two-boxes-holder{
+    display: flex;
+    flex-direction: row;
+}
+
+.first-box{
+    width: 368px;
+    height: 160px;
+    background-color: rgb(242, 242, 242);
+    margin-right: 20px;
+    border-radius: 10px;
+    margin-left: 183px;
+    margin-top: 5px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+}
+
+.ride{
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.box-one-para{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    height: 40px;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 8px;
+    
+}
+
+.details-button{
+    align-items: center;
+    background-color: white;
+    border-radius: 30px;
+    color: black;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    border-style: none;
+    border: none;
+    padding: 10px;
+    height: 36px;
+    width: 69.8px;
+    margin-left: 15px;
+    margin-top: 1px;
+}
+
+.car-image{
+    height: 129px;
+    margin-left: 30px;
+    margin-top: 16px;
+}
+
+.second-box{
+    width: 368px;
+    height: 160px;
+    background-color: rgb(242, 242, 242);
+    border-radius: 10px;
+    margin-top: 5px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+}
+
+.clock-image{
+    height: 129px;
+    margin-left: 30px;
+    margin-top: 16px;
+}
+
+.second-picture-and-second-heading{
+    display: flex;
+    flex-direction: row;
+}
+
+.car-driving-image{
+    height: 558px;
+    width: 558px;
+    margin-left: 185px;
+}
+
+.second-heading{
+    color: black;
+    font-size: 52px;
+    font-weight: 700;
+    letter-spacing: normal;
+    line-height: 64px;
+    text-align: left;
+    width: 459px;
+    margin-left: 133px;
+    margin-top: 84px;
+    cursor: text;
+}
+
+.second-heading-para{
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    text-size-adjust: 100%;
+    unicode-bidi: isolate;
+    height: 72px;
+    margin-left: 133px;
+    
+}
+
+.button-and-para-holder{
+    display: flex;
+    flex-direction: row;
+}
+
+.get-started-button{
+    margin-left: 133px;
+    align-items: center;
+    background-color: black;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 14px 25px;
+    transition: opacity 0.2s;
+}
+
+.get-started-button:hover{
+    opacity: 0.8;
+}
+
+.the-link-holder{
+    padding-top: 5px;
+}
+
+.sign-in-link{
+    color: black;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 32px;
+    padding-bottom: 6px;
+    border-bottom: solid;
+    border-color: lightgrey;
+    margin-left: 30px; 
+    
+}
+
+.body-second-section-holder{
+    display: flex;
+    flex-direction: row;
+}
+
+.third-heading{
+    color: black;
+    font-size: 52px;
+    font-weight: 700;
+    letter-spacing: normal;
+    line-height: 64px;
+    text-align: left;
+    width: 459px;
+    margin-left: 185px;
+    margin-top: 225px;
+    cursor: text;
+}
+
+.third-heading-para{
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    text-size-adjust: 100%;
+    unicode-bidi: isolate;
+    height: 72px;
+    margin-left: 185px;
+}
+
+.get-started-button2{
+    margin-left: 185px;
+    align-items: center;
+    background-color: black;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 14px 25px;
+    transition: opacity 0.2s;
+}
+
+.get-started-button2:hover{
+    opacity: 0.8;
+}
+
+.airport-image{
+    margin-top: 125px;
+    height: 558px;
+    width: 558px;
+    margin-left: 135px;
+}
+
+.body-third-section-holder{
+    display: flex;
+    flex-direction: row;
+}
+
+.uber-go-image{
+    height: 558px;
+    width: 558px;
+    margin-left: 185px;
+    margin-top: 125px;  
+}
+
+.fourth-heading{
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: normal;
+    line-height: 44px;
+    width: 459px;
+    height: 44px;
+    margin-left: 134px;
+    margin-top: 272px;
+    
+}
+
+.fourth-heading-para{
+    color: black;
+    font-size: 16.5px;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    text-size-adjust: 100%;
+    unicode-bidi: isolate;
+    height: 72px;
+    margin-left: 133px;
+}
+
+.announced-button{
+    margin-left: 133px;
+    align-items: center;
+    background-color: black;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 14px 25px;
+    transition: opacity 0.2s;
+    margin-top: 60px;
+}
+
+.announced-button:hover{
+    opacity: 0.8;
+}
+
+.fleet-management-image{
+    height: 558px;
+    width: 558px;
+    margin-left: 185px;
+    margin-top: 125px; 
+    margin-bottom: 67px;
+}
+
+.body-fourth-section-holder{
+    display: flex;
+    flex-direction: row;
+}
+
+.fifth-heading{
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: normal;
+    line-height: 44px;
+    height: 88px;
+    margin-left: 134px;
+    margin-top: 280px;
+}
+
+.fifth-heading-para{
+    color: black;
+    font-size: 16.5px;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    text-size-adjust: 100%;
+    unicode-bidi: isolate;
+    height: 72px;
+    margin-left: 133px;
+    margin-top: -3px;
+}
+
+.get-started-button3{
+    margin-left: 133px;
+    align-items: center;
+    background-color: black;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 14px 25px;
+    transition: opacity 0.2s;
+    margin-top: -10px;
+    
+}
+
+.get-started-button3:hover{
+    opacity: 0.8;
+}

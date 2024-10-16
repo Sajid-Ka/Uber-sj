@@ -1,0 +1,308 @@
+.web-bottom{
+    height: 917.56px;
+    background-color: black;
+}
+
+.uber-logo-image{
+    height: 50px;
+    margin-left: 170px;
+    margin-top: 95px;
+    cursor: pointer;
+}
+
+.help-center{
+    color: white;
+    font-size: 16.5px;
+    font-weight: 400;
+    margin-top: 25px;
+    margin-left: 186px;
+}
+
+.under-line-para{
+    border-bottom: solid 1px;
+    cursor: pointer;
+    margin-left: 186px;
+    font-size: 16.5px;
+    font-weight: 400;
+    margin-top: 30px;
+    
+}
+
+.under-line:hover{
+    border-color: white;
+}
+
+.last-table{
+    height: 296px;
+    width: 1152px;
+    margin-left: 186px;
+    margin-top: 30px;
+    
+    
+}
+
+.table-heading{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.company{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    height: 24px;
+    margin-right: 218px;
+    margin-bottom: 6px;
+    
+}
+
+.products{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    height: 24px;
+    margin-right: 225px;
+    margin-bottom: 6px;
+}
+
+.global-citizenship{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    height: 24px;
+    margin-right: 153px;
+    margin-bottom: 6px;
+    
+}
+
+.travel{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    height: 24px;
+    margin-bottom: 6px;
+}
+
+.contents{
+    display: flex;
+    flex-direction: row;
+}
+
+.contents-holder-1{
+    margin-right: 214px;
+}
+
+.supperate-content{
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 450;
+    line-height: 20px;
+    
+    
+}
+
+.supperate-content:hover{
+    color: rgb(168, 168, 168);
+}
+
+.supperate-content:active{
+    border: blue 2px solid;
+}
+
+.contents-holder-2{
+    margin-right: 189px;
+}
+
+.contents-holder-3{
+    margin-right: 159px;
+}
+
+.logo-language-and-location-holder{
+    display: flex;
+    flex-direction: row;
+}
+
+.logo-holder{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.facebook-logo{
+    height: 14px;
+    margin-top: 79px;
+    margin-right: 95px;
+    cursor: pointer;
+    
+}
+
+.twitter-logo{
+    height: 25px;
+    margin-top: 74px;
+    margin-right: 88px;
+    cursor: pointer;
+
+}
+
+.youtube-logo{
+    height: 15px;
+    margin-top: 79px;
+    margin-right: 85px;
+    cursor: pointer;
+}
+
+.linkedin-logo{
+    height: 22.5px;
+    margin-top: 75.5px;
+    margin-right: 84px;
+    cursor: pointer;
+    
+}
+
+.instagram-logo{
+    height: 19px;
+    margin-top: 77px;
+    cursor: pointer;
+}
+
+.english-and-location-button-holder{
+    display: flex;
+    flex-direction: row;
+}
+
+.english-button-holder{
+    display: flex;
+    flex-direction: row;
+}
+
+.globe-image{
+    margin-top: 77px;
+    height: 18.5px;
+    margin-left: 502px;
+}
+
+.english-button{
+    margin-top: 77px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+    
+}
+
+.location-button-holder{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.location-image{
+    margin-top: 78px;
+    height: 14px;
+    margin-left: 22px;
+    width: 18px;
+}
+
+.kochi-button{
+    margin-top: 77px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.play-store-app-store-holder{
+    display: flex;
+    flex-direction: row;
+}
+
+.play-store{
+    margin-top: 60px;
+    height: 38px;
+    cursor: pointer;
+}
+
+.app-store{
+    margin-top: 57px;
+    height: 44px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+
+.last-main-div{
+    display: flex;
+    flex-direction: row;
+}
+
+.uber-technology-para{
+    color: rgb(190, 190, 190);
+    font-size: 12px;
+    font-weight: 400;
+    cursor: text;
+    margin-top: 55px;
+    
+}
+
+.privasy-para{
+    color: rgb(190, 190, 190);
+    font-size: 12px;
+    font-weight: 400;
+    cursor: text;
+    margin-top: 51px;
+    margin-left: 780px;
+    cursor: pointer;
+    
+}
+
+.privasy-para:hover{
+   color: gray;
+}
+
+.privasy-para:active{
+    border: blue 2px solid;
+}
+
+.accessibility-para{
+    color: rgb(190, 190, 190);
+    font-size: 12px;
+    font-weight: 400;
+    cursor: text;
+    margin-top: 51px;
+    margin-left: 33px;
+    cursor: pointer;
+}
+
+.accessibility-para:hover{
+    color: gray;
+ }
+
+ .accessibility-para:active{
+    border: blue 2px solid;
+}
+
+.terms-para{
+    color: rgb(190, 190, 190);
+    font-size: 12px;
+    font-weight: 400;
+    cursor: text;
+    margin-top: 51px;
+    margin-left: 33px;
+    cursor: pointer;
+}
+
+.terms-para:hover{
+    color: gray;
+ }
+
+ .terms-para:active{
+    border: blue 2px solid;
+}
+
+
+
+
